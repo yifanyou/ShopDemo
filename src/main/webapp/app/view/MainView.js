@@ -80,9 +80,9 @@ Ext.define('ShopDemo.view.MainView', {
                         hideOnMaskTap: false,
                         modal: false,
                         itemTpl: [
-                            '{name}'
+                            '{categoryName}'
                         ],
-                        store: 'MyStore',
+                        store: 'CategoryStore',
                         triggerCtEvent: 'singletap',
                         triggerEvent: 'itemsingletap',
                         grouped: false,

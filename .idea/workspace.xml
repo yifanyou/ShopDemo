@@ -58,23 +58,7 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/controller/ProductController.java" line="33" class="com.yyf.shopdemo.controller.ProductController" package="com.yyf.shopdemo.controller">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -84,31 +68,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CategoryService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/service/CategoryService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="24" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2014">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ProductService.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/service/ProductService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
-              <folding />
+            <state line="17" column="39" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,7 +82,18 @@
       <file leaf-file-name="MyNavigationView1.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/app/view/MyNavigationView1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
+            <state line="16" column="26" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0" vertical-offset="616" max-vertical-offset="1140">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainView.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/view/MainView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="35" selection-start="1324" selection-end="1324" vertical-scroll-proportion="-0.740458" vertical-offset="1262" max-vertical-offset="2698">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -127,7 +104,7 @@
       <file leaf-file-name="MyStore.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/app/store/MyStore.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="29" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="950">
+            <state line="15" column="29" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="950">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -138,7 +115,16 @@
       <file leaf-file-name="CategoryStore.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/app/store/CategoryStore.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="27" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+            <state line="19" column="25" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookStore.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/store/BookStore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="4" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
               <folding />
             </state>
           </provider>
@@ -147,9 +133,22 @@
       <file leaf-file-name="Category.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/Category.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="24" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+            <state line="19" column="30" selection-start="399" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
               <folding>
-                <element signature="e#0#47#0" expanded="false" />
+                <marker date="1408466204402" expanded="true" signature="86:455" placeholder="{&quot;extend&quot;: 'Ext.data.Model'...}" />
+                <marker date="1408466204402" expanded="true" signature="180:453" placeholder="{...}" />
+                <marker date="1408466204402" expanded="true" signature="198:447" placeholder="[...]" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookInfo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/BookInfo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="836">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,20 +163,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductStore.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/store/ProductStore.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="16" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Product.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/Product.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="519" selection-end="1308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817">
-              <folding />
+            <state line="20" column="6" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1064">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -205,13 +197,13 @@
         <option value="$PROJECT_DIR$/src/main/webapp/app/store/ProductStore.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/sencha-touch.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/app/view/MainView.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/custom.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/app/store/Category.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/app/model/Category.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/app/store/CategoryStore.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/controller/CategoryController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/store/CategoryStore.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/view/MainView.js" />
       </list>
     </option>
   </component>
@@ -1027,16 +1019,16 @@
       <workItem from="1407769714612" duration="1223000" />
       <workItem from="1407844538641" duration="10153000" />
       <workItem from="1408454868004" duration="595000" />
-      <workItem from="1408463981137" duration="1764000" />
+      <workItem from="1408463981137" duration="4341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13735000" />
+    <option name="totallyTimeSpent" value="16312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1593" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1060,7 +1052,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23398858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34031415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34031415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32974002" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1107,7 +1099,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/app/view/MainView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="52" selection-start="3206" selection-end="3206" vertical-scroll-proportion="0.0" vertical-offset="1824" max-vertical-offset="2698">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1149,7 +1143,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/Product.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="13" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="404" max-vertical-offset="1064">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1170,7 +1166,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/app/view/MainView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="52" selection-start="3206" selection-end="3206" vertical-scroll-proportion="0.0" vertical-offset="1824" max-vertical-offset="2698">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1212,7 +1210,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/Product.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="13" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="404" max-vertical-offset="1064">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1242,24 +1242,9 @@
         <state line="35" column="21" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="328" max-vertical-offset="931" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/BookInfo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0" vertical-offset="233" max-vertical-offset="836" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="26" selection-start="820" selection-end="820" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/store/BookStore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.8.RELEASE/spring-web-3.2.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="29" selection-start="2403" selection-end="2403" vertical-scroll-proportion="0.63779527" vertical-offset="284" max-vertical-offset="817" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/app/css/custom.css">
@@ -1310,10 +1295,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/view/Main.js">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="19" selection-start="1244" selection-end="1244" vertical-scroll-proportion="0.0" vertical-offset="461" max-vertical-offset="1064">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.09810671" vertical-offset="57" max-vertical-offset="2014">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="974" selection-end="974" vertical-scroll-proportion="0.90648854" vertical-offset="0" max-vertical-offset="665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.8.RELEASE/spring-web-3.2.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="29" selection-start="2403" selection-end="2403" vertical-scroll-proportion="0.62139916" vertical-offset="306" max-vertical-offset="817">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="657" selection-end="657" vertical-scroll-proportion="0.66117215" vertical-offset="114" max-vertical-offset="665">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/dao/impl/CategoryDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="25" selection-start="643" selection-end="643" vertical-scroll-proportion="0.521978" vertical-offset="0" max-vertical-offset="1121">
+          <folding>
+            <marker date="1407687729845" expanded="true" signature="-1:-1" placeholder="select * fro..category..." />
+            <marker date="1407687729845" expanded="true" signature="-1:-1" placeholder="select * fro..customer..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="39" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/BookInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="836">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/Category.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="30" selection-start="399" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
+          <folding>
+            <marker date="1408466204402" expanded="true" signature="86:455" placeholder="{&quot;extend&quot;: 'Ext.data.Model'...}" />
+            <marker date="1408466204402" expanded="true" signature="180:453" placeholder="{...}" />
+            <marker date="1408466204402" expanded="true" signature="198:447" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/Product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="6" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1064">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1326,9 +1389,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/view/MainView.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/view/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="39" selection-start="2688" selection-end="2695" vertical-scroll-proportion="0.0" vertical-offset="1026" max-vertical-offset="2451">
+        <state line="24" column="23" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1064">
           <folding />
         </state>
       </provider>
@@ -1342,22 +1405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/Product.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="519" selection-end="1308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/model/Category.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/app/store/ProductStore.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="16" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
@@ -1365,47 +1412,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/store/BookStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="4" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/app/store/CategoryStore.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="27" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+        <state line="19" column="25" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/controller/ProductController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/view/MainView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="870" selection-end="1117" vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/controller/CategoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="52" selection-start="775" selection-end="775" vertical-scroll-proportion="0.45783132" vertical-offset="0" max-vertical-offset="608">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/service/ProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyf/shopdemo/service/CategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
+        <state line="46" column="35" selection-start="1324" selection-end="1324" vertical-scroll-proportion="-0.740458" vertical-offset="1262" max-vertical-offset="2698">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2014">
-          <folding />
         </state>
       </provider>
     </entry>

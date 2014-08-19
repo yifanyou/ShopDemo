@@ -18,7 +18,7 @@ Ext.define('ShopDemo.store.CategoryStore', {
         storeId: 'CategoryStore',
         proxy: {
             type: 'ajax',
-            url: '/category/ss',
+            url: '/category',
             reader: {
                 type: 'json'
             }

@@ -3,6 +3,7 @@ package com.yyf.shopdemo.controller;
 import com.yyf.shopdemo.dao.CategoryDao;
 import com.yyf.shopdemo.domain.Category;
 import com.yyf.shopdemo.domain.Customer;
+import com.yyf.shopdemo.service.CategoryService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
@@ -17,21 +18,21 @@ import java.util.List;
  * Created by Administrator on 14-8-11.
  */
 @Controller
-@RequestMapping("/category")
+
 public class CategoryController {
     @Resource
-    private CategoryDao categoryDao;
+    private CategoryService categoryService;
 
-    @RequestMapping("/")
+    @RequestMapping("/category")
     public ResponseEntity getProductsByCategoryName(){
-        List<Category> list = productService.getProductsByCategoryName("面包");
+        List<Category> list = categoryService.getCategory();
         return new ResponseEntity(list, HttpStatus.CREATED);
     }
 
-    @RequestMapping(value = "/{categoryName}")
+    @RequestMapping(value = "/category/{categoryName}")
     public String getCustomer(@PathVariable("categoryName") String categoryName, Model model){
-        Category category = categoryDao.queryByName(categoryName);
-        model.addAttribute(category);
+        List<Category> categoryList = categoryService.getCategoryByName(categoryName);
+        model.addAttribute(categoryList);
         return "category";
     }
 }
