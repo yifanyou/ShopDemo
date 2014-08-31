@@ -1,6 +1,6 @@
 ## ShopDemo
-A Web mobile app used for ordering product.
+A web mobile app used for ordering product.
 
 ### Tools
-- Sencha Touch
-- SpringMVC
+- Sencha Touch 2.3
+- SpringMVC 3.2.8
